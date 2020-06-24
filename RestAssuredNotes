@@ -1,0 +1,40 @@
+RestMethods:
+1.get()
+2.post()
+3.put()
+4.patch()
+5.delete()
+6.given()   -- represents the pre-conditions and it returns request specification
+7.when()    -- represents actions 
+8.then()    -- represents the outcome of previous steps
+9.and()     -- represents additional conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
